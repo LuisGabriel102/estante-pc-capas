@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "base": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/",
+ "pacotes": [
+  {
+   "n": 1,
+   "arq": "capas_01.bin",
+   "h": "6e4a5fe26d",
+   "mb": 22.9,
+   "j": 1000
+  },
+  {
+   "n": 2,
+   "arq": "capas_02.bin",
+   "h": "8bffda0421",
+   "mb": 22.6,
+   "j": 1000
+  },
+  {
+   "n": 3,
+   "arq": "capas_03.bin",
+   "h": "e3444459de",
+   "mb": 25.0,
+   "j": 1000
+  },
+  {
+   "n": 4,
+   "arq": "capas_04.bin",
+   "h": "415e9bbf83",
+   "mb": 24.5,
+   "j": 1000
+  },
+  {
+   "n": 5,
+   "arq": "capas_05.bin",
+   "h": "57b32123ab",
+   "mb": 24.5,
+   "j": 1000
+  },
+  {
+   "n": 6,
+   "arq": "capas_06.bin",
+   "h": "6273a8c8a9",
+   "mb": 21.3,
+   "j": 877
+  }
+ ]
+}
